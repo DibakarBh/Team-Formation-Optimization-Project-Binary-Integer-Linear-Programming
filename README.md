@@ -1,6 +1,6 @@
 # Overview
 
-This project develops a binary integer linear programming (BILP) model to form optimal student groups on the basis of performance metrics. The objective is maximize overall group success score. Each student is evaluated across three skill areas — Communication Skills, Problem-Solving, and Presentation Skills — each weighted equally (0.4, 0.4, 0.2 respectively).
+This project develops a binary integer linear programming (BILP) model to form optimal student groups on the basis of performance metrics. The objective is maximize overall group success score. Each student is evaluated across three skill areas — Communication Skills, Problem-Solving, and Presentation Skills — each weighted accordingly (0.4, 0.4, 0.2 respectively).
 
 The model is implemented using the lpSolve package, with automatically generated sample data representing student skill levels. The optimization ensures:
 
